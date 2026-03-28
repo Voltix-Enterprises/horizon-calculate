@@ -26,4 +26,4 @@ Prebuilt binaries are available on the [Releases](../../releases) page.
 
 ## Build Instructions
 The project is a single C source file and can be compiled with Clang or any modern Windows C compiler.
-<code>clang calculator.c -o HorizonCalculate.exe -lgdi32 -luser32
+```clang calculator.c -o HorizonCalculate.exe -lgdi32 -luser32```
